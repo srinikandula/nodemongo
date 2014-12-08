@@ -5,6 +5,7 @@ experiment with nodejs and mongo integration
 
 *install the node module dependencies
   npm install
+  
 *Start mongo using the data in the project folder 
   mongod --dbpath c:\node\nodetest1\data
   
